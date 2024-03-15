@@ -44,7 +44,7 @@ requirements = python3,kivy,kivymd,pillow
 # requirements.source.kivy = ../../kivy
 
 # (str) Presplash of the application
-presplash.filename = daLogo.png
+#presplash.filename = daLogo.png
 
 # (str) Icon of the application
 #icon.filename = %(source.dir)s/data/daLogo.png
